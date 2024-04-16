@@ -1,8 +1,8 @@
 # ¡Hola! Soy Ilia. 👋
 <p>
 <a href="https://imaquilo.com/"><img alt="Página porfolio" src="https://img.shields.io/badge/imaquilo.com-black"></a>
-<img alt="Linkedin imaquilo" src="https://img.shields.io/badge/@imaquilo-%232f67f8?logo=linkedin&logoColor=white&color=%232f67f8">
-<img alt="Correo electrónico" src="https://img.shields.io/badge/iliaqui.pe-%23D14836?logo=gmail&logoColor=white&color=%23D14836">
+<a href="https://www.linkedin.com/in/imaquilo/"><img alt="Linkedin imaquilo" src="https://img.shields.io/badge/@imaquilo-%232f67f8?logo=linkedin&logoColor=white&color=%232f67f8"></a>
+<a href="mailto:iliaqui.pe@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/iliaqui.pe-%23D14836?logo=gmail&logoColor=white&color=%23D14836"></a>
 </p>
 <p>¡Bienvenido a mi perfil! Desarrollador web de Murcia, España. Más de 2 años de experiencia en frontend y backend. Explora mi porfolio para ver cómo convierto ideas en soluciones web innovadoras.</p>
 <h3 style="display:flex; align-items:center; gap: 0.5rem;"><svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 8l-4 4l4 4" /><path d="M17 8l4 4l-4 4" /><path d="M14 4l-4 16" /></svg>Tecnologías con las que trabajo:</h3>
